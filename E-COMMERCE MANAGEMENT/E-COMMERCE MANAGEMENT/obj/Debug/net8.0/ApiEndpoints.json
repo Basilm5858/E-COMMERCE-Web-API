@@ -1,0 +1,271 @@
+[
+  {
+    "ContainingType": "E_COMMERCE_MANAGEMENT.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "E_COMMERCE_MANAGEMENT.DTOs.LoginDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "E_COMMERCE_MANAGEMENT.Controllers.AuthController",
+    "Method": "Register",
+    "RelativePath": "api/Auth/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "E_COMMERCE_MANAGEMENT.DTOs.RegisterDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "E_COMMERCE_MANAGEMENT.Controllers.CategoryController",
+    "Method": "Create",
+    "RelativePath": "api/Category/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "E_COMMERCE_MANAGEMENT.DTOs.CreateCategoryDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "E_COMMERCE_MANAGEMENT.Controllers.CategoryController",
+    "Method": "GetAll",
+    "RelativePath": "api/Category/GetAllCategories",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "E_COMMERCE_MANAGEMENT.Controllers.CategoryController",
+    "Method": "GetById",
+    "RelativePath": "api/Category/GetById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "E_COMMERCE_MANAGEMENT.Controllers.OrderController",
+    "Method": "CalculateTotalRevenue",
+    "RelativePath": "api/Order/CalculateTotalRevenue",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "E_COMMERCE_MANAGEMENT.Controllers.OrderController",
+    "Method": "Create",
+    "RelativePath": "api/Order/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "E_COMMERCE_MANAGEMENT.DTOs.CreateOrderDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "E_COMMERCE_MANAGEMENT.Controllers.OrderController",
+    "Method": "GetById",
+    "RelativePath": "api/Order/GetById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "E_COMMERCE_MANAGEMENT.Controllers.OrderController",
+    "Method": "UpdateStatus",
+    "RelativePath": "api/Order/UpdateStatus",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "dto",
+        "Type": "E_COMMERCE_MANAGEMENT.DTOs.UpdateStatusDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "E_COMMERCE_MANAGEMENT.Controllers.ProductController",
+    "Method": "Create",
+    "RelativePath": "api/Product/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "E_COMMERCE_MANAGEMENT.DTOs.CreateProductDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "E_COMMERCE_MANAGEMENT.Controllers.ProductController",
+    "Method": "GetAll",
+    "RelativePath": "api/Product/GetAllCategories",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "categoryid",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageno",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pagesize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "E_COMMERCE_MANAGEMENT.Controllers.ProductController",
+    "Method": "GetById",
+    "RelativePath": "api/Product/GetById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "E_COMMERCE_MANAGEMENT.Controllers.ProductController",
+    "Method": "GetSecondMostExpensive",
+    "RelativePath": "api/Product/GetSecondMostExpensive",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "categoryid",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "E_COMMERCE_MANAGEMENT.Controllers.ProductController",
+    "Method": "Search",
+    "RelativePath": "api/Product/Search",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "E_COMMERCE_MANAGEMENT.Controllers.ProductController",
+    "Method": "Update",
+    "RelativePath": "api/Product/Update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "dto",
+        "Type": "E_COMMERCE_MANAGEMENT.DTOs.UpdateProductDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "E_COMMERCE_MANAGEMENT.Controllers.ProductController",
+    "Method": "UpdateStock",
+    "RelativePath": "api/Product/UpdateStock",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "dto",
+        "Type": "E_COMMERCE_MANAGEMENT.DTOs.UpdateStockDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

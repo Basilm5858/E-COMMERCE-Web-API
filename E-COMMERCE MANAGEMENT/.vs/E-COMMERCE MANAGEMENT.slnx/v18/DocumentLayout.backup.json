@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\basil\\OneDrive\\Desktop\\Web API\\E-COMMERCE MANAGEMENT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9677ABB9-28DC-C1B0-9E47-6550A3777271}|E-COMMERCE MANAGEMENT\\E-COMMERCE MANAGEMENT.csproj|c:\\users\\basil\\onedrive\\desktop\\web api\\e-commerce management\\e-commerce management\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9677ABB9-28DC-C1B0-9E47-6550A3777271}|E-COMMERCE MANAGEMENT\\E-COMMERCE MANAGEMENT.csproj|solutionrelative:e-commerce management\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9677ABB9-28DC-C1B0-9E47-6550A3777271}|E-COMMERCE MANAGEMENT\\E-COMMERCE MANAGEMENT.csproj|c:\\users\\basil\\onedrive\\desktop\\web api\\e-commerce management\\e-commerce management\\enums\\statusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9677ABB9-28DC-C1B0-9E47-6550A3777271}|E-COMMERCE MANAGEMENT\\E-COMMERCE MANAGEMENT.csproj|solutionrelative:e-commerce management\\enums\\statusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9677ABB9-28DC-C1B0-9E47-6550A3777271}|E-COMMERCE MANAGEMENT\\E-COMMERCE MANAGEMENT.csproj|c:\\users\\basil\\onedrive\\desktop\\web api\\e-commerce management\\e-commerce management\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9677ABB9-28DC-C1B0-9E47-6550A3777271}|E-COMMERCE MANAGEMENT\\E-COMMERCE MANAGEMENT.csproj|solutionrelative:e-commerce management\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9677ABB9-28DC-C1B0-9E47-6550A3777271}|E-COMMERCE MANAGEMENT\\E-COMMERCE MANAGEMENT.csproj|c:\\users\\basil\\onedrive\\desktop\\web api\\e-commerce management\\e-commerce management\\repos\\implementation\\ordercustomrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9677ABB9-28DC-C1B0-9E47-6550A3777271}|E-COMMERCE MANAGEMENT\\E-COMMERCE MANAGEMENT.csproj|solutionrelative:e-commerce management\\repos\\implementation\\ordercustomrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9677ABB9-28DC-C1B0-9E47-6550A3777271}|E-COMMERCE MANAGEMENT\\E-COMMERCE MANAGEMENT.csproj|c:\\users\\basil\\onedrive\\desktop\\web api\\e-commerce management\\e-commerce management\\repos\\interfaces\\iorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9677ABB9-28DC-C1B0-9E47-6550A3777271}|E-COMMERCE MANAGEMENT\\E-COMMERCE MANAGEMENT.csproj|solutionrelative:e-commerce management\\repos\\interfaces\\iorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\basil\\OneDrive\\Desktop\\Web API\\E-COMMERCE MANAGEMENT\\E-COMMERCE MANAGEMENT\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "E-COMMERCE MANAGEMENT\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\basil\\OneDrive\\Desktop\\Web API\\E-COMMERCE MANAGEMENT\\E-COMMERCE MANAGEMENT\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "E-COMMERCE MANAGEMENT\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T14:12:17.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StatusEnum.cs",
+              "DocumentMoniker": "C:\\Users\\basil\\OneDrive\\Desktop\\Web API\\E-COMMERCE MANAGEMENT\\E-COMMERCE MANAGEMENT\\Enums\\StatusEnum.cs",
+              "RelativeDocumentMoniker": "E-COMMERCE MANAGEMENT\\Enums\\StatusEnum.cs",
+              "ToolTip": "C:\\Users\\basil\\OneDrive\\Desktop\\Web API\\E-COMMERCE MANAGEMENT\\E-COMMERCE MANAGEMENT\\Enums\\StatusEnum.cs",
+              "RelativeToolTip": "E-COMMERCE MANAGEMENT\\Enums\\StatusEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T14:02:02.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderCustomRepo.cs",
+              "DocumentMoniker": "C:\\Users\\basil\\OneDrive\\Desktop\\Web API\\E-COMMERCE MANAGEMENT\\E-COMMERCE MANAGEMENT\\Repos\\Implementation\\OrderCustomRepo.cs",
+              "RelativeDocumentMoniker": "E-COMMERCE MANAGEMENT\\Repos\\Implementation\\OrderCustomRepo.cs",
+              "ToolTip": "C:\\Users\\basil\\OneDrive\\Desktop\\Web API\\E-COMMERCE MANAGEMENT\\E-COMMERCE MANAGEMENT\\Repos\\Implementation\\OrderCustomRepo.cs",
+              "RelativeToolTip": "E-COMMERCE MANAGEMENT\\Repos\\Implementation\\OrderCustomRepo.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwBQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T13:44:48.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\basil\\OneDrive\\Desktop\\Web API\\E-COMMERCE MANAGEMENT\\E-COMMERCE MANAGEMENT\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "E-COMMERCE MANAGEMENT\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\basil\\OneDrive\\Desktop\\Web API\\E-COMMERCE MANAGEMENT\\E-COMMERCE MANAGEMENT\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "E-COMMERCE MANAGEMENT\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAEQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T13:18:11.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IOrder.cs",
+              "DocumentMoniker": "C:\\Users\\basil\\OneDrive\\Desktop\\Web API\\E-COMMERCE MANAGEMENT\\E-COMMERCE MANAGEMENT\\Repos\\Interfaces\\IOrder.cs",
+              "RelativeDocumentMoniker": "E-COMMERCE MANAGEMENT\\Repos\\Interfaces\\IOrder.cs",
+              "ToolTip": "C:\\Users\\basil\\OneDrive\\Desktop\\Web API\\E-COMMERCE MANAGEMENT\\E-COMMERCE MANAGEMENT\\Repos\\Interfaces\\IOrder.cs",
+              "RelativeToolTip": "E-COMMERCE MANAGEMENT\\Repos\\Interfaces\\IOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T13:44:29.128Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
